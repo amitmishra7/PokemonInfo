@@ -19,11 +19,7 @@ A fancy UI for displaying list pokemons and perfomrning simple sort and filter o
 
 <img src="assets/p1.png" width ="200"/>   <img src="assets/p2.png" width ="200"/> <img src="assets/p3.png" width ="200"/> <img src="assets/p4.png" width ="200"/>
 
-
-<img src="assets/p5.png" width ="200"/>  <img src="assets/p6.png" width ="200"/> <img src="assets/p7.png" width ="200"/> <img src="assets/p8.png" width ="200"/>
-
-<img src="assets/p9.png" width ="200"/>  <img src="assets/p10.png" width ="200"/> <img src="assets/p11.png" width ="200"/> <img src="assets/p12.png" width ="200"/>
-
+<img src="assets/p5.png" width ="200"/>  <img src="assets/p6.png" width ="200"/> <img src="assets/p9.png" width ="200"/>  <img src="assets/p10.png" width ="200"/> 
 ## `Important`
 
 This repository is just a demo purpose of flutter UI. Please do not misuse it.
