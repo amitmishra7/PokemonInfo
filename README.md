@@ -30,4 +30,4 @@ This repository is just a demo purpose of flutter UI. Please do not misuse it.
 
 * [Amit Mishra](https://github.com/amitmishra7)
 
-If you like this tutorial please don't forget to add a ⭐ Also follow to get informed for upcoming tutorials.
+If you like this tutorial please don't forget to add a ⭐. Also follow to get informed for upcoming tutorials.
