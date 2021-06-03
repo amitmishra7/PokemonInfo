@@ -1,8 +1,8 @@
-# `Pokemon Info`
+# Pokemon Info
 
 A fancy UI for displaying list pokemons and perfomrning simple sort and filter operations.
 
-## `Preview`
+## Preview
 
 
 <img src="assets/p13.png" width ="200"/>  <img src="assets/p14.png" width ="200"/> <img src="assets/p15.png" width ="200"/> <img src="assets/p16.png" width ="200"/>
@@ -20,11 +20,13 @@ A fancy UI for displaying list pokemons and perfomrning simple sort and filter o
 <img src="assets/p1.png" width ="200"/>   <img src="assets/p2.png" width ="200"/> <img src="assets/p3.png" width ="200"/> <img src="assets/p4.png" width ="200"/>
 
 <img src="assets/p5.png" width ="200"/>  <img src="assets/p6.png" width ="200"/> <img src="assets/p9.png" width ="200"/>  <img src="assets/p10.png" width ="200"/> 
-## `Important`
+
+
+## Important
 
 This repository is just a demo purpose of flutter UI. Please do not misuse it.
 
-## `Author`
+## Author
 
 * [Amit Mishra](https://github.com/amitmishra7)
 
